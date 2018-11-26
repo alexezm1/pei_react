@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+}
+
+#footer{
+    position:relative;
+    margin:20px auto;
+    width:1140px;
+    height:70px;
+    /* background:rgba(100,0,255,1); */
+    text-align:center;
+    line-height:70px;
+    color:rgb(29, 26, 26);
+}
